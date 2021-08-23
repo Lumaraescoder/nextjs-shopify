@@ -14,7 +14,6 @@ Demo live at: [headless.builders](https://headless.builders/)
 - Builder.io Visual CMS integrated
 - Connect to Shopify data through Builder's high speed data layer
 
-## Video walkthrough
 
 Learn how to get started with this Builder + Next.js + Shopify starter with this step by step video guide here:
 
